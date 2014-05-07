@@ -1,0 +1,19 @@
+﻿\begin{thebibliography}{1}
+
+\bibitem{cortez2009modeling}
+Paulo Cortez, Ant{\'o}nio Cerdeira, Fernando Almeida, Telmo Matos, and Jos{\'e}
+  Reis.
+\newblock Modeling wine preferences by data mining from physicochemical
+  properties.
+\newblock {\em Decision Support Systems}, 47(4):547--553, 2009.
+
+\bibitem{FanMing2006}
+范明, 范宏建, et~al.
+\newblock 数据挖掘导论, 2006.
+
+\bibitem{lebowitz1984concept}
+Michael Lebowitz.
+\newblock Concept learning in a rich input domain: Generalization-based memory.
+\newblock {\em Machine Learning}, 1984.
+
+\end{thebibliography}
